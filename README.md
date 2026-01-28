@@ -80,10 +80,11 @@ This relational intelligence enables proactive legal risk mitigation.
 ## 📊 Output
 
 ### 🔹 Output 1 – Risk Detection Dashboard
-![Output 1](images/output1.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9063ec0b-134c-4c29-b6c2-76390e68d632" />
 
 ### 🔹 Output 2 – Graph-Based Anomaly Visualization
-![Output 2](images/output2.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/322065c4-3ebd-407a-aa64-442f079851b7" />
+
 
 **Example Alerts:**
 - Vendor with abnormal connections to flagged entities  
